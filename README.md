@@ -2,18 +2,37 @@
 
 I have created this Social Network API. I could not push from my terminal so I had to delete it and push it again.
 
-## Description
+
+## Table of Contents
+
+* [Intro](#intro)
+* [User-Story](user-story)
+* [Technologies](#technologies)
+* [Acceptance-criteria](#acceptance-criteria)
+* [How-to-use](#how-to-use)
+* [Video-Wlk-through](#video-walkthrough)
+
+## Intro
 
 I have built an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. I used Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
 I created my own data using Insomnia after you’ve created your API.
 
-## User Story
+## User-Story
 
 
 AS A social media startup
 I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
+
+## Technologies
+
+*Javascript
+*Express
+*Mongoose
+*MongoDB
+*MongoDB Compass
+
 
 ## Acceptance criteria
 
